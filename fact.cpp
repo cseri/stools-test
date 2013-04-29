@@ -1,5 +1,8 @@
 #include "fact.h"
 
+/**
+ * Calculates the factorial of a number
+ */
 int factorial(int number)
 {
   int result = 1;
