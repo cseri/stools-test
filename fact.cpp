@@ -3,6 +3,7 @@
 /**
  * Calculates the factorial of a number
  */
+/*line added*/
 int factorial(int number)
 {
   int result = 1;
