@@ -2,10 +2,11 @@
 
 #include "fact.h"
 
+using namespace std;
 
 int main()
 {
-  std::cout << factorial(5) << std::endl;
+  cout << factorial(5) << endl;
 
   return 0;
 }
